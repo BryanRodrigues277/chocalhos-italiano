@@ -59,13 +59,13 @@ function Offer() {
           </div>
 
           <div className="mb-2">
-            <p className="text-sm line-through text-cinza-medium">Da $97.00</p>
+            <p className="text-sm line-through text-cinza-medium">Da € 97,00</p>
             <p className="inline-block bg-vermelho-urgencia text-white px-3 py-1 rounded text-xs font-bold">per soli</p>
           </div>
 
           <div className="mb-6">
             <div className="text-[80px] md:text-[160px] font-black text-verde-cta tracking-tighter leading-none font-sans">
-              $9.90
+              € 9,90
             </div>
           </div>
 

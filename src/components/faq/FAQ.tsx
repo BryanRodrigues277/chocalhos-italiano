@@ -24,7 +24,7 @@ const faqs = [
   },
   {
     question: 'Perché costa così poco? È reale?',
-    answer: 'Sì, il valore promozionale di $9.90 è per rendere il kit accessibile al maggior numero di persone possibile. Ma attenzione: questa è un\'offerta limitata e può terminare in qualsiasi momento.'
+    answer: 'Sì, le promozioni sono per rendere il kit accessibile al maggior numero di persone possibile. Ma attenzione: questa è un\'offerta limitata di soli € 9,90 e può terminare in qualsiasi momento.'
   }
 ];
 

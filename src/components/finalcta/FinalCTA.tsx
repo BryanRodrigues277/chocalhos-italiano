@@ -8,7 +8,7 @@ export default function FinalCTA() {
     <section className="py-16 px-5 bg-gradient-to-br from-rosa-gradient-start to-rosa-gradient-end">
       <div className="container mx-auto max-w-3xl text-center">
         <h2 className="text-[32px] font-bold text-white mb-6">
-          Assicurati ora il tuo manuale di copertine con +100 schemi per soli $9.90!
+          Assicurati ora il tuo manuale di copertine con +100 schemi per soli € 9,90!
         </h2>
 
         <a
